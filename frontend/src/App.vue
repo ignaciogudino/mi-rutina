@@ -1,7 +1,7 @@
 <template>
 <div class="animate">
   <nav class="navbar header-top fixed-top navbar-expand-lg navbar-grey bg-light" v-if="!isLogin">
-      <a class="navbar-brand">BULK APP</a>
+      <a class="navbar-brand">MI RUTINA</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText"
          aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -62,6 +62,7 @@ export default {
 
 
 <style>
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

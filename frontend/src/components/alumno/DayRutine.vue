@@ -10,6 +10,7 @@
                     <th scope="col">EJERCICIO</th>
                     <th scope="col">SERIES</th>
                     <th scope="col">REPETICIONES</th>
+                    <th scope="col">VIDEO</th>
                   </tr>
                 </thead>
                 <tbody>
